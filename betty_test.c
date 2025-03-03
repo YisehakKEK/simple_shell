@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-    printf("Betty would be proud!\n");
-    return (0);
+printf("Betty would be proud!\n");
+return (0);
 }
